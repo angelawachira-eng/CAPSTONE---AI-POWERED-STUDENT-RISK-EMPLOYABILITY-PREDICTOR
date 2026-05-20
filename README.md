@@ -340,6 +340,12 @@ jupyter notebook
 
 ## 10. Streamlit App
 
+**Streamlit User-Interface Link:** 
+
+https://student-success-predictor-s33v.onrender.com/
+
+
+
 The Streamlit application provides a real-time prediction interface for advisors and students.
 
 ```bash
